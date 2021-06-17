@@ -22,7 +22,7 @@ sudo yum install python-pip python-dev python-django
 
 3.git clone this repository
 ```
-git clone https://github.com/bhagvank/amazon_django.git
+git clone https://github.com/bhagvank/SpeechImagesToText.git
 
 ```
 
